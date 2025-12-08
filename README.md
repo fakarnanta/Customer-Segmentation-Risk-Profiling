@@ -1,5 +1,11 @@
 # Bank Customer Segmentation & Risk Profiling
 
+[![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/d1a505f2-751c-4fb8-9a38-776369bcc4a2/0ae8743068387327d043?experience=power-bi)
+
+![bank_customer_segmentation_page-0001](https://github.com/user-attachments/assets/ebadad16-7fb5-4cca-82d5-5022f4449daa)
+![bank_customer_segmentation_page-0002](https://github.com/user-attachments/assets/92e65bef-a4cc-4fed-adac-17d44bdebb0c)
+![bank_customer_segmentation_page-0003](https://github.com/user-attachments/assets/ad32a37c-4557-4919-8b38-cc7c97d865e4)
+
 ## Executive Summary
 This project leverages K-Means Clustering to segment a digital bank's customer base into four strategic personas. By analyzing demographic data and credit behavior, the analysis aims to balance portfolio growth with risk management.
 
