@@ -1,5 +1,10 @@
 # Bank Customer Segmentation & Risk Profiling
 
+[![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
 [![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/d1a505f2-751c-4fb8-9a38-776369bcc4a2/0ae8743068387327d043?experience=power-bi)
 
 ![bank_customer_segmentation_page-0001](https://github.com/user-attachments/assets/ebadad16-7fb5-4cca-82d5-5022f4449daa)
